@@ -1,0 +1,8 @@
+venv/
+.env
+test.py
+app.py
+transcript_text.txt
+youtube.ipynb
+
+
